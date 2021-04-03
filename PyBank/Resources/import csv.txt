@@ -1,0 +1,3 @@
+import csv
+with open('budget_data.csv) as csv_file
+csv_reader = csv.reader(csv_budget_data.csv)

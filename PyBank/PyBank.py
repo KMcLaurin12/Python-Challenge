@@ -24,3 +24,9 @@ print('Maximum value:', max_value)
 
 mean_value = mean(numbers)
 print('Mean value:', mean_value)
+
+range_value = range("Profit")
+print(range_value)
+
+range_vaue = range("Losses")
+print(range_value)
